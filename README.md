@@ -6,4 +6,4 @@
 
 * [My Blog](https://nbili.cc/)
 
-![Nbili's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbili&show_icons=true&theme=radical)
+![Nbili's GitHub stats](https://github-readme-stats.vercel.app/api?username=nbili&show_icons=true&theme=Gradient)
